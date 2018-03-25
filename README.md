@@ -1,6 +1,6 @@
 # fossee-project
 
-This readme corresponds to this project.zip file and the github repo:
+This readme corresponds to this project.zip file and the github repo: https://github.com/shivendrarox/fossee-project
 
 LIST OF FILES:
 1.project.py
